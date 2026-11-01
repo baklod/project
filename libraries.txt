@@ -1,0 +1,7 @@
+Adafruit BMP085 Library
+DHT sensor library
+Adafruit GFX Library
+Adafruit ILI9341
+Adafruit BusIO
+Adafruit Unified Sensor
+DHT sensor library for ESPx
